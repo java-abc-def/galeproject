@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27748" started-at="2015-11-02T13:18:47Z" finished-at="2015-11-02T13:19:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27748" started-at="2015-11-02T13:18:47Z" finished-at="2015-11-02T13:19:15Z">
+      <class name="galepackage.NewTest1">
+        <test-method status="PASS" signature="first()[pri:0, instance:galepackage.NewTest1@2b30a42c]" name="first" duration-ms="14098" started-at="2015-11-02T18:48:48Z" finished-at="2015-11-02T18:49:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="second()[pri:0, instance:galepackage.NewTest1@2b30a42c]" name="second" duration-ms="971" started-at="2015-11-02T18:49:02Z" finished-at="2015-11-02T18:49:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method status="PASS" signature="third()[pri:0, instance:galepackage.NewTest1@2b30a42c]" name="third" duration-ms="2399" started-at="2015-11-02T18:49:03Z" finished-at="2015-11-02T18:49:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- third -->
+        <test-method status="PASS" signature="fourth()[pri:0, instance:galepackage.NewTest1@2b30a42c]" name="fourth" duration-ms="2070" started-at="2015-11-02T18:49:05Z" finished-at="2015-11-02T18:49:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourth -->
+        <test-method status="PASS" signature="fifth()[pri:0, instance:galepackage.NewTest1@2b30a42c]" name="fifth" duration-ms="1238" started-at="2015-11-02T18:49:07Z" finished-at="2015-11-02T18:49:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fifth -->
+        <test-method status="PASS" signature="sixth()[pri:0, instance:galepackage.NewTest1@2b30a42c]" name="sixth" duration-ms="1004" started-at="2015-11-02T18:49:08Z" finished-at="2015-11-02T18:49:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sixth -->
+        <test-method status="PASS" signature="seventh()[pri:0, instance:galepackage.NewTest1@2b30a42c]" name="seventh" duration-ms="474" started-at="2015-11-02T18:49:09Z" finished-at="2015-11-02T18:49:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seventh -->
+        <test-method status="PASS" signature="eighth()[pri:0, instance:galepackage.NewTest1@2b30a42c]" name="eighth" duration-ms="1563" started-at="2015-11-02T18:49:10Z" finished-at="2015-11-02T18:49:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eighth -->
+        <test-method status="PASS" signature="ninth()[pri:0, instance:galepackage.NewTest1@2b30a42c]" name="ninth" duration-ms="702" started-at="2015-11-02T18:49:11Z" finished-at="2015-11-02T18:49:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ninth -->
+        <test-method status="PASS" signature="tenth()[pri:0, instance:galepackage.NewTest1@2b30a42c]" name="tenth" duration-ms="759" started-at="2015-11-02T18:49:12Z" finished-at="2015-11-02T18:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tenth -->
+        <test-method status="PASS" signature="eleventh()[pri:0, instance:galepackage.NewTest1@2b30a42c]" name="eleventh" duration-ms="1987" started-at="2015-11-02T18:49:13Z" finished-at="2015-11-02T18:49:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eleventh -->
+        <test-method status="PASS" signature="twelfth()[pri:0, instance:galepackage.NewTest1@2b30a42c]" name="twelfth" duration-ms="403" started-at="2015-11-02T18:49:15Z" finished-at="2015-11-02T18:49:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twelfth -->
+      </class> <!-- galepackage.NewTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
